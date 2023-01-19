@@ -104,10 +104,49 @@ Du findest die Daten im Verzeichnis datawarehouse unter dem Namen dim_times.csv
 
 #### 1. Screenshot
 
-Die ersten beiden Tabellen wurden in Power BI importiert.  
+Die ersten beiden Tabellen wurden in Power BI importiert.    
 ![ER-Modell](/public/images/screenshots/PowerBI_Screenshot_001.png)
 
 #### 2. Screenshot
 
-Das Datenmodell für unser Fahrradgeschäft in Power BI
+Das Datenmodell für unser Fahrradgeschäft in Power BI.  
 ![ER-Modell](/public/images/screenshots/PowerBI_Screenshot_002.png)
+
+
+#### 3. Screenshot
+
+Wie war die Umsatzentwicklung in den letzten 5 Jahren?   
+![ER-Modell](/public/images/screenshots/PowerBI_Screenshot_003.png)
+
+#### 4. Screenshot
+
+Wie war die Umsatzentwicklung der drei Shops in den letzten fünf Jahren?   
+![ER-Modell](/public/images/screenshots/PowerBI_Screenshot_004.png)
+
+
+#### 5. Screenshot
+
+Wie hat sich der Umsatz auf die beiden Produktgruppen Fahrräder und Fahrradzubehör verteilt? 
+![ER-Modell](/public/images/screenshots/PowerBI_Screenshot_005.png)
+
+#### 6. Screenshot
+
+Wie war der Umsatz der Produktgruppe Fahrrad bezüglich der Hersteller? 
+![ER-Modell](/public/images/screenshots/PowerBI_Screenshot_006.png)
+
+#### 7. Screenshot
+
+Wie war der Umsatz der Produktgruppe Fahrrad bezüglich der Farben? 
+![ER-Modell](/public/images/screenshots/PowerBI_Screenshot_007.png)
+
+#### Die Power BI Lösung
+
+Im Verzeichnis PowerBI_Analyse.pbix findest du die von mir entwickelte Lösung für das Fahrradgeschäft **RadRausch**. 
+Du kannst dir gerne diese Datei und auch die Dateien aus dem Verzeichnis datawarehouse herunterladen.
+
+Allerdings musst du folgendes beachten: Wenn du diese Dateien auf deinen Computer herunterlädst, funktioniert die Verknüpfung der fünf importierten CSV-Dateien nicht mehr.   
+Um diese Pfade zu aktualisieren klicke in der Anwendung Power BI in der Menüleiste auf File und dann auf Options an settings und hier schließlich auf Data Source Settings.  
+Hier kannst du jetzt die Pfade der fünf CSV-Dateien anpassen.
+
+
+
